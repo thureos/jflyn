@@ -9,7 +9,7 @@ function shuffleArray(arr) {
 const entries = {
   "K8JO67D": {
       "trait": "American",
-      "punchline": "They don’t have the guts."
+      "punchline": "They don't have the guts."
   },
   "37RE9B4": {
       "trait": "Mexican",
@@ -45,11 +45,11 @@ const entries = {
   },
   "GOM5A2O": {
       "trait": "Korean",
-      "punchline": "Now it won’t stop sending me KitKats."
+      "punchline": "Now it won't stop sending me KitKats."
   },
   "6MQNR6O": {
       "trait": "Italian",
-      "punchline": "Because they’re always stuffed."
+      "punchline": "Because they're always stuffed."
   },
   "IZRE9IU": {
       "trait": "Russian",
@@ -57,7 +57,7 @@ const entries = {
   },
   "4WPGUKB": {
       "trait": "Brazilian",
-      "punchline": "They can’t handle the pressure."
+      "punchline": "They can't handle the pressure."
   },
   "S7ZNV61": {
       "trait": "Australian",
@@ -65,7 +65,7 @@ const entries = {
   },
   "8CRIA2D": {
       "trait": "Christian",
-      "punchline": "It’s nacho cheese!"
+      "punchline": "It's nacho cheese!"
   },
   "5NSMYT1": {
       "trait": "Muslim",
@@ -77,11 +77,11 @@ const entries = {
   },
   "1HLPMNG": {
       "trait": "Hindu",
-      "punchline": "You’d crack up too!"
+      "punchline": "You'd crack up too!"
   },
   "DAA9UQU": {
       "trait": "Buddhist",
-      "punchline": "It’s all downhill from here."
+      "punchline": "It's all downhill from here."
   },
   "IJ9W6BY": {
       "trait": "Atheist",
@@ -93,15 +93,15 @@ const entries = {
   },
   "UMFWD5H": {
       "trait": "Catholic",
-      "punchline": "I have a lot of problems but math ain’t one."
+      "punchline": "I have a lot of problems but math ain't one."
   },
   "66ENEY3": {
       "trait": "Evangelical",
-      "punchline": "It’s on the house!"
+      "punchline": "It's on the house!"
   },
   "5L9Q8WM": {
       "trait": "Mormon",
-      "punchline": "It’s always full of itself."
+      "punchline": "It's always full of itself."
   },
   "MZ7TV4I": {
       "trait": "Republican",
@@ -109,7 +109,7 @@ const entries = {
   },
   "HX7U1VC": {
       "trait": "Democrat",
-      "punchline": "It couldn’t handle the current."
+      "punchline": "It couldn't handle the current."
   },
   "70PZB93": {
       "trait": "Socialist",
@@ -121,11 +121,11 @@ const entries = {
   },
   "WDMB7XA": {
       "trait": "Capitalist",
-      "punchline": "Because they didn’t have the balls."
+      "punchline": "Because they didn't have the balls."
   },
   "E6ZMAIW": {
       "trait": "Liberal",
-      "punchline": "It’s a rare medium well done."
+      "punchline": "It's a rare medium well done."
   },
   "KD5C469": {
       "trait": "Conservative",
@@ -137,7 +137,7 @@ const entries = {
   },
   "N3JOOZ0": {
       "trait": "Progressive",
-      "punchline": "It’s just a phase."
+      "punchline": "It's just a phase."
   },
   "4LITAMF": {
       "trait": "Environmentalist",
@@ -145,7 +145,7 @@ const entries = {
   },
   "M0PBER1": {
       "trait": "Basketball player",
-      "punchline": "The past, it’s always behind you."
+      "punchline": "The past, it's always behind you."
   },
   "GTOAPB8": {
       "trait": "Doctor",
@@ -157,23 +157,23 @@ const entries = {
   },
   "N7QWSLG": {
       "trait": "Lawyer",
-      "punchline": "Because it’s the root of all evil."
+      "punchline": "Because it's the root of all evil."
   },
   "YN6C0MP": {
       "trait": "Teacher",
-      "punchline": "Because it’s unbe-leaf-able."
+      "punchline": "Because it's unbe-leaf-able."
   },
   "OP69EF4": {
       "trait": "Farmer",
-      "punchline": "They don’t carrot all."
+      "punchline": "They don't carrot all."
   },
   "NFJOOX7": {
       "trait": "Politician",
-      "punchline": "It’s a shell game."
+      "punchline": "It's a shell game."
   },
   "9HIAESQ": {
       "trait": "Actor",
-      "punchline": "They’re just clawing their way through."
+      "punchline": "They're just clawing their way through."
   },
   "Q0TBBHQ": {
       "trait": "Musician",
@@ -185,19 +185,19 @@ const entries = {
   },
   "H2I6OET": {
       "trait": "Programmer",
-      "punchline": "They didn’t have a good angle."
+      "punchline": "They didn't have a good angle."
   },
   "VHIQ61U": {
       "trait": "Athlete",
-      "punchline": "Because they couldn’t ketchup."
+      "punchline": "Because they couldn't ketchup."
   },
   "8NYEP5W": {
       "trait": "Vegan",
-      "punchline": "It couldn’t resist the pull."
+      "punchline": "It couldn't resist the pull."
   },
   "HESVP16": {
       "trait": "Activist",
-      "punchline": "It didn’t make the cut."
+      "punchline": "It didn't make the cut."
   },
   "NU8SUE8": {
       "trait": "Feminist",
@@ -217,7 +217,7 @@ const entries = {
   },
   "8TWPESN": {
       "trait": "Student",
-      "punchline": "Because they’re not up to speed."
+      "punchline": "Because they're not up to speed."
   },
   "I385PUH": {
       "trait": "Parent",
@@ -249,7 +249,7 @@ const entries = {
   },
   "T952KKZ": {
       "trait": "Middle-class",
-      "punchline": "They couldn’t face the music."
+      "punchline": "They couldn't face the music."
   },
   "KF2L9FP": {
       "trait": "Disabled",
@@ -267,8 +267,16 @@ const entries = {
 
 traits = Object.values(entries).map(item => item.trait);
 
-traits = shuffleArray(traits);
+// traits = shuffleArray(traits);
 
+function getTraitKeyFromUrl() {
+    return window.location.pathname.split("/")[1];
+}
+
+function getIndexForKey(sKey) {
+    console.log(sKey);
+    return Object.keys(entries).indexOf(sKey);
+}
 
 function roulette() {
     const roulette = document.getElementById('roulette');
@@ -276,17 +284,22 @@ function roulette() {
     const itemHeight = items[0].offsetHeight;
     const totalItems = items.length;
     // const randomIndex = Math.floor(Math.random() * totalItems);
-    const randomIndex = Math.floor((43/totalItems) * totalItems);
+    const traitKey = getTraitKeyFromUrl();
+    const traitKeyPos = getIndexForKey(traitKey)
+    const selectedIndex = Math.floor((traitKeyPos/totalItems) * totalItems);
+
+    el = document.getElementById("punchline");
+
+    el.innerHTML = entries[traitKey].punchline
     
     // Calculate the final position
-    const finalPosition = -(randomIndex * itemHeight);
+    const finalPosition = -(selectedIndex * itemHeight);
 
     // Set the transform property to move the roulette
     roulette.style.transform = `translateY(${finalPosition}px)`;
 }
 
 function fillTraits() {
-  // let traits = ['jewish','Republic','Cotton','Progressive','Handcrafted','Serbia','1080p','Cambridgeshire','customized','Cheese','Devolved','Assistant','withdrawal','alarm','Arizona','Bacon','Architect','Generic','SAS','enhance','ability','Zimbabwe','index','Benin','digital','Towels','Gloves','Networked','analyzer','rich','holistic','Loan','invoice','markets','withdrawal','algorithm','analyzing','transitional','Dynamic','Mobility','Connecticut','background','Africa','Zimbabwe','24/7','optical','Wooden','Concrete','Views','Generic','sensor','synergies','Peso','Turnpike','Principal','New','multi-state','neural','back-end','Dynamic','programming','multi-byte','conglomeration','standardization','Global','Pass','District','Berkshire','calculate','Analyst','Metal','Shirt','overriding','Orchestrator','SAS','Generic','Ouguiya','Avon','process','Cambridgeshire','Center','Handcrafted','Representative','implementation','cross-platform','Sports','JBOD','Shoes','payment','input','methodology','array','strategize','Ergonomic','Delaware','withdrawal','Investment','Concrete','invoice','Cotton','turquoise','Brunei','Maryland','Home','Shore','programming','harness','generate','mexican','fault-tolerant','Light','Paradigm'];
 
   const ulRoulette = document.getElementById('roulette');
   
